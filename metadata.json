@@ -1,0 +1,10 @@
+{
+  "name": "ZINACHI_NAM.UZ — Premium Yog'och Mahsulotlari",
+  "description": "Zinapoyalar, MDF eshiklar va tobutlar uchun hashamatli va sifatli yog'och mahsulotlari buyurtma platformasi. Uyingizga hashamat va go'zallik baxsh etuvchi sifatli mahsulotlar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
